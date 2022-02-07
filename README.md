@@ -9,4 +9,4 @@ Recommender systems are the systems that are designed to recommend things to the
 5.  Help websites to improve user engagement.
 
 ## What can be Recommended?
-There are many different things that can be recommended by the system like movies, books, news, articles, jobs, advertisements, etc. Netflix uses a recommender system to recommend movies & web-series to its users. Similarly, YouTube recommends different videos. There are many examples of recommender systems that are widely used today.
+There are many different things that can be recommended by the system like movies, books, news, articles, jobs, advertisements, etc. Netflix uses a recommender system to recommend 
